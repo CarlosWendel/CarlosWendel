@@ -1,0 +1,21 @@
+{
+    "Aluno":[
+        {"id":1, 
+        "Nome":"Carlos",
+        "E-mail":"borabill@gmail.com"},{
+        "id":2,
+        "Nome":"Juliano",
+        "E-mail":"Juliano@gmail.com"},{
+        "id":3,
+        "Nome":"Rayne",
+        "E-mail":"Ryane@gmail.com"}
+    ], 
+        "FichaTreino":[
+        {"descrição":"Peito",
+        "duração":30},{
+        "descrição":"Braços",
+        "duração":20},{
+        "descrição":"Perna",
+        "duração":30}
+    ]
+}
